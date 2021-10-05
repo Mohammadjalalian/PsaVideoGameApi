@@ -10,6 +10,7 @@ namespace PsaVideoGameCommon
   {
      int Id { get; set; }
      DateTime CreationTime { get; set; }
+     DateTime CreationTime2 { get; set; }
      DateTime  ModificationTime { get; set; }
   }
 }
